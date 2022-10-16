@@ -1,0 +1,16 @@
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/linux-x64/EsepWebhook.deps.json
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/linux-x64/EsepWebhook.runtimeconfig.dev.json
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/linux-x64/EsepWebhook.dll
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/linux-x64/EsepWebhook.pdb
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/linux-x64/Amazon.Lambda.Core.dll
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/netcoreapp3.1/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/netcoreapp3.1/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/netcoreapp3.1/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/netcoreapp3.1/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/netcoreapp3.1/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/netcoreapp3.1/linux-x64/EsepWebhook.csproj.CopyComplete
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/netcoreapp3.1/linux-x64/EsepWebhook.dll
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/netcoreapp3.1/linux-x64/EsepWebhook.pdb
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/obj/Release/netcoreapp3.1/linux-x64/EsepWebhook.genruntimeconfig.cache

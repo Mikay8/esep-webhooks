@@ -1,0 +1,6 @@
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/publish/EsepWebhook.dll
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/publish/EsepWebhook.deps.json
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/publish/EsepWebhook.runtimeconfig.json
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/publish/EsepWebhook.pdb
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/publish/Amazon.Lambda.Core.dll
+/Users/mikayla/Desktop/EsepWebhook/src/EsepWebhook/bin/Release/netcoreapp3.1/publish/Amazon.Lambda.Serialization.SystemTextJson.dll

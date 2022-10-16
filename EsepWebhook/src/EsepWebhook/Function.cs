@@ -23,7 +23,7 @@ public class Function
         string payload = $"{{'text':'Issue Created: {json.issue.html_url}'}}";
 
         var client = new HttpClient();
-        var webRequest = new HttpRequestMessage(HttpMethod.Post, "{do not check}")
+        var webRequest = new HttpRequestMessage(HttpMethod.Post, "{Leave this empty}")
         {
             Content = new StringContent(payload, Encoding.UTF8, "application/json")
         };
